@@ -1,0 +1,22 @@
+# Development
+node_modules/
+bun.lock
+*.log
+
+# Build
+dist/
+
+# Cache
+.mockproxy/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+coverage/
+.nyc_output/
